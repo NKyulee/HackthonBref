@@ -11,7 +11,7 @@ class Filter extends Component {
         return (
             <Picker
 				selectedValue={this.state.language}
-				style={{height: 50, width: 100}}
+				style={{height: 80, width: 200}}
 				onValueChange={(itemValue, itemIndex) =>
 					this.setState({language: itemValue})
 				}
@@ -19,7 +19,7 @@ class Filter extends Component {
 				<Picker.Item label="récent" value="récent" />
 				<Picker.Item label="ancien" value="ancien" />
 				<Picker.Item label="alphabétique" value="alphabétique" />
-				<Picker.Item label="date" value="date" />
+				<Picker.Item label="populaire" value="populaire" />
 			</Picker>
         )
     }
