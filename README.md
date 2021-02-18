@@ -10,10 +10,21 @@ Ce repository contient donc le code source de l'application mobile Bref.
 
 Rendu final le 19/02/2021.
 
-# Sujet du projet
+# Sujet du Hackathon
 
+## Bref, c'est quoi ?
 
+Vous aussi vous n’avez pas encore trouvé LA solution pour avoir accès à des informations quotidiennes rapidement de façon agréable et ludique à la fois ? 
+Vous aussi vous êtes lassé de devoir lire des pavés qui font la taille de roman pour pouvoir connaître les actualités du quotidien ? 
+Comment proposer une plateforme de diffusion de l’information, concise, interactive et ludique ?
+Avec mon équipe, on a trouvé cette solution, et elle s'appelle Bref. 
+On a réussi à regrouper dans une application du contenu fiable, de qualité, à lire rapidement et à la fois ludique et interactif. C’est simple, c’est Bref. 
 
+## Bref, c'est pour qui ?
+
+Bref s’adresse à une cible assez large car les français s'intéressent aux informations quotidiennement. Bref cible principalement les jeunes et les actifs francophones qui possèdent un smartphone. 
+
+# Technique et mise en forme du projet
 
 ## Technologies utilisées
 
@@ -24,6 +35,8 @@ Rendu final le 19/02/2021.
 - Database NoSQL : MongoDB
 (Temps 3)
 - Déploiement : NGINX - Docker
+
+# Feedback équipe
 
 ## Installation du projet
 
