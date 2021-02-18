@@ -1,19 +1,29 @@
-import React, { useState } from 'react';
-import { View, Text, StyleSheet} from 'react-native';
+import React, { Fragment } from 'react';
+import { Text, StyleSheet} from 'react-native';
 
 export default function Footer() {
-
 	return (
-		<View style={{flex: 1, alignItems: 'center', justifyContent: 'center'}}>
-      <Text style={styles.baseText}>Bref 2021</Text>
-      <Text>Tout droit réservé</Text>
-    </View>
+		<Fragment>
+      <Text style={styles.firstText}>
+        Bref 2021
+      </Text>
+      <Text style={styles.secondText}>
+        Tout droit réservé
+      </Text>
+    </Fragment>
 	)
 }
 
 const styles = StyleSheet.create({
-  baseText: {
-    fontWeight: 'bold'
+  firstText: { 
+    fontSize: 18, 
+    textAlign: 'center', 
+    color: 'grey' 
+  },
+  secondText : { 
+    fontSize: 16, 
+    textAlign: 'center', 
+    color: 'grey' 
   }
 });
 

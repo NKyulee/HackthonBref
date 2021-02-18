@@ -8,7 +8,7 @@ class ArticleItem extends React.Component {
       <View style={styles.main_container}>
         <Image
           style={styles.image}
-          source={{uri: "image"}}
+          source={{uri: "http://icons.iconarchive.com/icons/arrioch/blawb/128/news-icon.png"}}
         />
         <View style={styles.content_container}>
           <View style={styles.header_container}>

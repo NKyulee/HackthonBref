@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "projet_bref",
-    "slug": "projet_bref",
+    "name": "navigation-drawer-with-custom-sidebar-menu-example",
+    "slug": "snack-190f1c37-4891-466f-b95c-f6955edc850d",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -27,6 +27,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Example of React Native NavigationDrawer"
   }
 }
