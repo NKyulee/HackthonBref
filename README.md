@@ -10,6 +10,15 @@ Ce repository contient donc le code source de l'application mobile Bref.
 
 Rendu final le 19/02/2021.
 
+## Qui est derrière Bref ?
+
+Nous sommes une petite équipe composé de : 
+Alice Guicheux & Stephany Heurdier qui sont en charge du Marketing
+William Suzan qui est en charge du design
+Julie Nguyen et Gabriel Gomez qui sont en charge du developpement de l'application
+
+Toute l'équipe de Bref sont ravis de pouvoir vous proposez la V.1 de Bref !
+
 # Sujet du Hackathon
 
 ## Bref, c'est quoi ?
@@ -30,14 +39,14 @@ Bref s’adresse à une cible assez large car les français s'intéressent aux i
 
 (Temps 1)
 - Front-end : React Native - Lancement via Expo
+<br />
 (Temps 2)
 - Back-end : NodeJs - Express
 - Database NoSQL : MongoDB
+- <br />
 (Temps 3)
 - Déploiement : NGINX - Docker
 
-# Feedback équipe
+## Demo de BREF
 
-## Installation du projet
-
-## Lancement du projet
+Bientot le Lien vers l'apk.
