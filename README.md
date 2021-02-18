@@ -39,11 +39,11 @@ Bref s’adresse à une cible assez large car les français s'intéressent aux i
 
 (Temps 1)
 - Front-end : React Native - Lancement via Expo
-<br />
+
 (Temps 2)
 - Back-end : NodeJs - Express
 - Database NoSQL : MongoDB
-- <br />
+
 (Temps 3)
 - Déploiement : NGINX - Docker
 
